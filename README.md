@@ -4,5 +4,5 @@ pandas for everyone: python data analysis by Daniel Y. Chen
 
 topics:
 1. loading data
-2. subsetting data
+2. subsetting
 3. slicing
