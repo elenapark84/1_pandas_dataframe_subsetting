@@ -1,4 +1,4 @@
-# 1_pandas_dataframe_subsetting
+# pandas_dataframe_subsetting
 How to load csv/tsv files and subset columns/rows 
 pandas for everyone: python data analysis by Daniel Y. Chen
 
